@@ -1,4 +1,4 @@
-# Index Fund Optimization Using Integer and Linear Programming
+# Index Fund Optimization Using Integer and Linear Programming 
 
 ## Overview
 This project addresses the challenge of index fund optimization to closely track the NASDAQ-100 index performance using a reduced number of stocks. Leveraging Integer Programming (IP) for stock selection and Linear Programming (LP) for determining stock weights, we aimed to balance precision, cost-efficiency, and diversification in passive equity management.
